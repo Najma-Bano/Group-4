@@ -6,8 +6,9 @@
 package grupp4;
 
 /**
- *
- * @author najma
+ *@author najma
+ *@author richard
+ *  
  */
 public class Grupp4 {
 
